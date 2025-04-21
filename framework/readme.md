@@ -83,3 +83,13 @@
 | AgentGPT [video](https://www.bilibili.com/video/BV1V94y1s7uT) | agent store, agent template    |                                                              |                                                          |
 | Bisheng *                                                    |                                | dify+flowise的结合体                                         |                                                          |
 
+
+
+
+
+
+# 参考
+
+1. [awesome-ai-agents](https://github.com/www6v/awesome-ai-agents) git list
+2. [DecryptPrompt](https://github.com/www6v/DecryptPrompt)  ***  git list
+3. [AIGCLINK](https://space.bilibili.com/471000665/video?tid=0&pn=1&keyword=&order=pubdate) V
