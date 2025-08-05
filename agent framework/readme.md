@@ -18,15 +18,15 @@
 
 # Agent（General）
 
-| Agent（General） | 类型 | Code | 描述 |
+| Agent（General） | Type | Code | desc |
 | --- | --- | --- | --- |
-|**AutoGen**  paper ***|Multi Agent|[code](https://github.com/microsoft/autogen)![GitHub Badge][autogen]|customizable, **conversable**,  **seamlessly allow human participation** [v](https://www.bilibili.com/video/BV1DH4y1Z7Ep)|
-|**MetaGPT** paper***|Multi Agent-role base|[code](https://github.com/geekan/MetaGPT)![GitHub Badge][MetaGPT]|覆盖软件公司全生命流程|
-|**CrewAI**|Multi Agent|[code](https://github.com/joaomdmoura/CrewAI)![GitHub Badge][CrewAI]|流程定义更灵活 [v](https://www.bilibili.com/video/BV12C4y1Y7xm)|
+|**AutoGen**  paper 🔥|Multi Agent|[code](https://github.com/microsoft/autogen)![GitHub Badge][autogen]|customizable, **conversable**,  **seamlessly allow human participation** [v](https://www.bilibili.com/video/BV1DH4y1Z7Ep)|
+|**MetaGPT** paper 🔥|Multi Agent-role base|[code](https://github.com/geekan/MetaGPT)![GitHub Badge][MetaGPT]|覆盖软件公司全生命流程|
+|**CrewAI** 🔥|Multi Agent|[code](https://github.com/joaomdmoura/CrewAI)![GitHub Badge][CrewAI]|流程定义更灵活 [v](https://www.bilibili.com/video/BV12C4y1Y7xm)|
 |**BabyAGI**|**plan and execute**|[code](https://github.com/yoheinakajima/babyagi)![GitHub Badge][BabyAGI]||
-|**AutoGPT**|General|[code](https://github.com/Torantulino/Auto-GPT)![GitHub Badge][AutoGPT]||
-| **LangGraph** [v](https://www.bilibili.com/video/BV1VN4y1n7bt/) *** | flow engineering          |                                                              |                                                              |
-|**XAgent**|**双循环，人可参与**|[code](https://github.com/OpenBMB/XAgent)![GitHub Badge][XAgent]|autogpt，babyagi - 没法收敛，有时候会不可控<br/>metagpt，chatdev sop优化- 有一定的局限性，通用性不够好 [v](https://www.bilibili.com/video/BV1D34y1M74F)|
+|**AutoGPT** 🔥|General|[code](https://github.com/Torantulino/Auto-GPT)![GitHub Badge][AutoGPT]||
+| **LangGraph**  🔥 | flow engineering          | [code](https://github.com/langchain-ai/langgraph) | [v](https://www.bilibili.com/video/BV1VN4y1n7bt/) |
+|XAgent|双循环，人可参与|[code](https://github.com/OpenBMB/XAgent)![GitHub Badge][XAgent]|autogpt，babyagi - 没法收敛，有时候会不可控<br/>metagpt，chatdev sop优化- 有一定的局限性，通用性不够好 [v](https://www.bilibili.com/video/BV1D34y1M74F)|
 | Agents  paper | single agent\|multi agent | [code](https://github.com/aiwaves-cn/agents)                 | 基于SOP [v](https://www.bilibili.com/video/BV1C8411k7UL) |
 | phidata |                           | [code](https://github.com/phidatahq/phidata) | Memory, knowledge and tools for LLMs |
 |MiniAGI||[code](https://github.com/muellerberndt/mini-agi)|simple general-purpose autonomous agent based on the OpenAI API [v](https://www.bilibili.com/video/BV1Hh4y1k7Jz)|
@@ -35,7 +35,7 @@
 
 # Agent(tool/assistant) 
 
-| Agent(tool/assistant)                                        | 类型                           | Code                                                         | 描述                                                         |
+| Agent(tool/assistant)                                        | Type                       | Code                                                         | desc                                                     |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **ResearchGPT** ***                                          | plan and execute               | [code](https://github.com/assafelovic/gpt-researcher)![GitHub Badge][ResearchGPT] | 融合论文拆解+网络爬虫                                        |
 | WorkGPT                                                      | tools                          | [code](https://github.com/team-openpm/workgpt)               | A GPT agent framework for invoking APIs                      |
@@ -48,7 +48,7 @@
 | Aider                                                        | code  assistant | [code](https://github.com/paul-gauthier/aider)               | **交互式**                                                   |
 
 # Agent(simulation)   
-| Agent(simulation)                                            | 类型                | Code                                                         | 描述                                                         |
+| Agent(simulation)                                            | Type                | Code                                                         | desc                                                         |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Hyperwriteai [website](https://www.hyperwriteai.com/personal-assistant)*** | web agent, os agent | [code](https://github.com/OthersideAI/self-operating-computer) | [v](https://www.bilibili.com/video/BV1BZ421B7ar/)            |
 | **MultiON** ***                                              | web agent           |                                                              | [v](https://www.bilibili.com/video/BV1mt421W7sw/)            |
@@ -68,19 +68,19 @@
 
 # Agent
 
-| Agent                                                        | 类型                           | Code                                                     | 描述                                                         |
+| Agent                                                        | Type                       | Code                                                     | desc                                                     |
 | ------------------------------------------------------------ | ------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
-| TaskingAI [video](https://www.bilibili.com/video/BV1gp4y1m75S/) | LLMOps                         | [code](https://github.com/TaskingAI/TaskingAI)           |                                                              |
-| DIFY [video](https://www.bilibili.com/video/BV14V411Q7wP/)   | LLMOps                         |                                                          |                                                              |
-| **AutoGen Studio** [video](https://www.bilibili.com/video/BV1fi4y1i7g7/) *** | LLMOps                         |                                                          |                                                              |
-| L3AGI [video](https://www.bilibili.com/video/BV1s94y1K7fP)   | LLMOps                         |                                                          |                                                              |
+| TaskingAI | LLMOps                         | [code](https://github.com/TaskingAI/TaskingAI)           | [v](https://www.bilibili.com/video/BV1gp4y1m75S/) |
+| DIFY 🔥 | LLMOps                         |                                                          | [v](https://www.bilibili.com/video/BV14V411Q7wP/) |
+| **AutoGen Studio**  *** | LLMOps                         |                                                          | [v](https://www.bilibili.com/video/BV1fi4y1i7g7/) |
+| L3AGI   | LLMOps                         |                                                          | [v](https://www.bilibili.com/video/BV1s94y1K7fP) |
 | agenta                                                       | LLMOps | [code](https://github.com/Agenta-AI/agenta)              | The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place. |
 | SuperAGI | LLMOps |  |  |
-| N8N [video](https://www.bilibili.com/video/BV1vT4y1h7UM/)    | work flow                      |                                                          |                                                              |
-| TaskWeaver [video](https://www.bilibili.com/video/BV16C4y1c7rd) |                                |                                                          | 以代码为中心[微软]                                    |
-| ProAgent [video](https://www.bilibili.com/video/BV1eu4y1b7DN) | work flow                      |                                                          | [清华]                                                     |
-| Prompt flow [video](https://www.bilibili.com/video/BV1aG411m7A4/) |                                |                                                          | [微软]                                                     |
-| AgentGPT [video](https://www.bilibili.com/video/BV1V94y1s7uT) | agent store, agent template    |                                                          |                                                              |
+| N8N    | work flow                      |                                                          | [v](https://www.bilibili.com/video/BV1vT4y1h7UM/) |
+| TaskWeaver |                                |                                                          | 以代码为中心[微软] [v](https://www.bilibili.com/video/BV16C4y1c7rd) |
+| ProAgent | work flow                      |                                                          | [清华] [v](https://www.bilibili.com/video/BV1eu4y1b7DN) |
+| Prompt flow |                                |                                                          | [微软] [v](https://www.bilibili.com/video/BV1aG411m7A4/) |
+| AgentGPT | agent store, agent template    |                                                          | [v](https://www.bilibili.com/video/BV1V94y1s7uT) |
 | Bisheng *                                                    |                                |                                                          | dify+flowise的结合体                                         |
 
 
